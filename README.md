@@ -17,7 +17,7 @@ Each project within this repository is the result of intensive research, collabo
 ### Project 1: Analysis of the Electric Vehicle Market in Korea
 
 - **Description**: Awarded for excellent project achievement at Multicampus, this analysis utilized data visualization techniques to elucidate the current state and trends of the electric vehicle market in Korea.
-- **Tools & Technologies**: R, ggplot2, Tableau
+- **Tools & Technologies**: Python, Numpy, Pandas, Matplotlib
 - **Key Findings/Results**: Provided insights into market dynamics, contributing to strategic planning for stakeholders in the electric vehicle sector.
 
 ### Project 2: Blood Pressure and Glucose Level Prediction

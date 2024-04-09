@@ -25,10 +25,23 @@ Each project within this repository is the result of intensive research, collabo
 - **Description**: This project, one of my excellent achievements at Multicampus, involved developing predictive models for blood pressure and glucose levels using machine and deep learning techniques.
 - **Tools & Technologies**: Python, TensorFlow, Scikit-learn
 - **Key Findings/Results**: Successfully created models that can predict blood pressure and glucose levels with high accuracy, aiding in preemptive healthcare measures.
+ 
+### Project 3: Cryptocurrency Market Prediction using Dual Method: Sentiment Analysis AI and Statistical Analysis
 
-### Project 3: 
+- **Description**: This project aims to predict cryptocurrency market movements by employing a dual-method approach that combines a sentiment analysis AI model with traditional statistical analysis. The sentiment analysis AI, named '갈대' (Reed), was developed using deep learning techniques to interpret and quantify the sentiment expressed in social media data. Real-time data is directly fetched and processed by '갈대' to gauge the current market sentiment. Subsequently, this sentiment data, along with historical market data from platforms like Reddit and Twitter, is analyzed using statistical models to predict future market trends.
 
-- 
+- **Tools & Technologies**: Python, TensorFlow for deep learning model development; APIs for real-time data fetching from social media; statistical analysis tools in Python; web development technologies for creating a user-facing website.
+
+- **Key Findings/Results**: The integration of sentiment analysis with statistical methods provided a more nuanced understanding of market dynamics, enabling more accurate predictions of future movements. The sentiment analysis AI, '갈대', effectively captured the prevailing sentiment from social media platforms, which, when combined with statistical analysis of historical data, resulted in predictions with improved accuracy.
+
+- **Project Deliverables**:
+    - Sentiment analysis AI model '갈대' trained on vast datasets from social media.
+    - A real-time data processing system that fetches, stores, and analyzes data from social media and cryptocurrency markets.
+    - Statistical analysis of sentiment and market data to predict cryptocurrency market trends.
+    - A prototype website that disseminates the analyzed data and predictions to users.
+
+This project exemplifies the power of combining AI and machine learning with traditional statistical methods to interpret complex data and predict market trends in the highly volatile cryptocurrency market.
+
 ## Technologies Used
 
 - **Data Analysis**: Pandas, NumPy

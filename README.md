@@ -16,15 +16,13 @@ Each project within this repository is the result of intensive research, collabo
 
 ### Project 1: Analysis of the Electric Vehicle Market in Korea
 
-- **Description**: Awarded for excellent project achievement at Multicampus, this analysis utilized data visualization techniques to elucidate the current state and trends of the electric vehicle market in Korea.
-- **Tools & Technologies**: Python, Numpy, Pandas, Matplotlib
-- **Key Findings/Results**: Provided insights into market dynamics, contributing to strategic planning for stakeholders in the electric vehicle sector.
-
+- **Description**: This award-winning project provides an in-depth analysis of the electric vehicle (EV) market in Korea. By employing advanced data visualization techniques, the project examines current market trends, consumer adoption rates, and regional distribution of EVs.
+- **Key Findings/Results**: he analysis revealed significant growth in EV adoption in urban areas, influenced by government incentives and expanding charging infrastructure. These insights are instrumental for stakeholders in strategic planning and policy formulation.
 ### Project 2: Blood Pressure and Glucose Level Prediction
 
-- **Description**: This project, one of my excellent achievements at Multicampus, involved developing predictive models for blood pressure and glucose levels using machine and deep learning techniques.
+- **Description**: This project focuses on developing predictive models for blood pressure and glucose levels using machine and deep learning techniques. By analyzing patient data, the models aim to predict health metrics, facilitating early intervention and personalized healthcare.
 - **Tools & Technologies**: Python, TensorFlow, Scikit-learn
-- **Key Findings/Results**: Successfully created models that can predict blood pressure and glucose levels with high accuracy, aiding in preemptive healthcare measures.
+- **Key Findings/Results**: The models achieved high accuracy in predictions, demonstrating the potential of AI in preemptive healthcare measures. This work contributes to the development of tools that can assist healthcare providers in monitoring and managing patient health effectively.
  
 ### Project 3: Cryptocurrency Market Prediction using Dual Method: Sentiment Analysis AI and Statistical Analysis
 

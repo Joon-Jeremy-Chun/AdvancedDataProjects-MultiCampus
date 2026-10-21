@@ -54,3 +54,9 @@ and [maintenance evidence](../docs/REPAIRS.md). Record publication after verific
 
 Keep this index short. Append detailed history to the log and topic handoffs.
 Recheck Git state at each session; a dated baseline is not a live status check.
+
+## Verified publication — 2026-10-20
+
+- Published commit: `6875f4ede3b10231bfafeda13518c8b934530988`; origin/master matched after a normal push.
+- Original working folder preserved: HEAD, Git status, and SHA-256 of 114 files matched the initial snapshot.
+- This follow-up records verification; it does not rerun historical models.

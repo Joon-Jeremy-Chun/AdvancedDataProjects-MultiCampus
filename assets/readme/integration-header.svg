@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Cryptocurrency Data and Korean Sentiment AI</title><desc id="desc">Project 03, integration collection: Coinpan crawling, Korean preprocessing, and LSTM classification.</desc>
+  <rect width="1200" height="220" rx="20" fill="#2b263d"/>
+  <rect width="8" height="220" rx="4" fill="#e0b8fd"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="50" y="53" font-size="14" fill="#e0b8fd" letter-spacing="2" font-weight="700">03B / DATA COLLECTION &amp; KOREAN NLP</text>
+    <text x="47" y="112" font-size="40" fill="#ffffff" font-weight="700">Cryptocurrency Data &amp; Korean Sentiment AI</text>
+    <text x="50" y="159" font-size="20" fill="#ddd1e9">Community posts, database write paths, and the Galdae sentiment model.</text>
+    <text x="1040" y="173" font-size="67" fill="#4d415f" font-weight="700">03B</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+# Local Python/Jupyter environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local credentials; keep deliberately authored examples visible
+.env
+.env.*
+!.env.example
+
+# Existing local NHIS data, kept on disk and outside routine staging
+/BP_BG_prediction-Machine_Deep_Learning/DataSets/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

@@ -25,14 +25,14 @@ tf.debugging.set_log_device_placement(True)
 
 
 
-!pip install pandas
-!pip install matplotlib
-!pip install konlpy
-!pip install tqdm
-!pip install tweepy
-!pip install sklearn
-!pip install keras
-!pip install tweepy==3.10.0
+# Archived notebook command; prepare dependencies separately: !pip install pandas
+# Archived notebook command; prepare dependencies separately: !pip install matplotlib
+# Archived notebook command; prepare dependencies separately: !pip install konlpy
+# Archived notebook command; prepare dependencies separately: !pip install tqdm
+# Archived notebook command; prepare dependencies separately: !pip install tweepy
+# Archived notebook command; prepare dependencies separately: !pip install sklearn
+# Archived notebook command; prepare dependencies separately: !pip install keras
+# Archived notebook command; prepare dependencies separately: !pip install tweepy==3.10.0
 #!pip install tensorflow
 
 #%%
@@ -54,7 +54,7 @@ from tensorflow.python.client import device_lib
 #%%
 """## 데이터 불러오기"""
 
-"C:\My_data\cryptocurrency_sentiment\crypto_labeling_Korean\eth.xlsx"
+r"C:\My_data\cryptocurrency_sentiment\crypto_labeling_Korean\eth.xlsx"
 
 alt = pd.read_excel("C:/My_data/cryptocurrency_sentiment/crypto_labeling_Korean/alt.xlsx")
 btc = pd.read_excel("C:/My_data/cryptocurrency_sentiment/crypto_labeling_Korean/btc.xlsx")
@@ -247,8 +247,8 @@ def below_threshold_len(max_len, nested_list):
     for sentence in nested_list:
         if(len(sentence) <= max_len):
             count = count + 1
-    print('전체 샘플 중 길이가 %s 이하인 샘플의 비율 : %s'\
-#           %(max_len, (count / len(nested_list))*100))
+    print('전체 샘플 중 길이가 %s 이하인 샘플의 비율 : %s'
+          % (max_len, (count / len(nested_list))*100))
 
 max_len = 100
 below_threshold_len(max_len, X_train)

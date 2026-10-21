@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Electric Vehicle Market Analysis</title><desc id="desc">Project 01: web collection, search trends, and exploratory visualization.</desc>
+  <rect width="1200" height="220" rx="20" fill="#122b32"/>
+  <rect width="8" height="220" rx="4" fill="#5eead4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="50" y="53" font-size="14" fill="#5eead4" letter-spacing="2" font-weight="700">01 / EXPLORATORY ANALYSIS</text>
+    <text x="47" y="112" font-size="43" fill="#ffffff" font-weight="700">Electric Vehicle Market Analysis</text>
+    <text x="50" y="159" font-size="20" fill="#bad8d6">Public interest, regional comparisons, and the questions behind EV adoption.</text>
+    <text x="1080" y="173" font-size="90" fill="#244d51" font-weight="700">01</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Cryptocurrency Sentiment and Market Research</title><desc id="desc">Project 03, research collection: sentiment classification, statistical indicators, and recommendations.</desc>
+  <rect width="1200" height="220" rx="20" fill="#25213d"/>
+  <rect width="8" height="220" rx="4" fill="#c4b5fd"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="50" y="53" font-size="14" fill="#c4b5fd" letter-spacing="2" font-weight="700">03A / NLP &amp; MARKET RESEARCH</text>
+    <text x="47" y="112" font-size="40" fill="#ffffff" font-weight="700">Cryptocurrency Sentiment &amp; Market Research</text>
+    <text x="50" y="159" font-size="20" fill="#d2cbe8">Text models, sentiment indices, price dynamics, and preference-based ranking.</text>
+    <text x="1040" y="173" font-size="67" fill="#454061" font-weight="700">03A</text>
+  </g>
+</svg>

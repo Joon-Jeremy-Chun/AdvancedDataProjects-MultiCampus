@@ -90,3 +90,11 @@ Genomics_Data_Analysis 순서의 문서 보완·검증·게시를 승인했다. 
 | [Genomics Data Analysis](https://github.com/Joon-Jeremy-Chun/Genomics_Data_Analysis) | `f9082ad` | 폴더 안내 3개·새 합성 참조 2개, R 검사 17개·구문 6개 |
 
 [팩트] 각 원격 브랜치 SHA와 게시용 worktree HEAD가 일치했고, 세 원본 폴더의 HEAD·Git 상태·총 230개 파일 SHA-256도 시작 시점과 동일했습니다. 원본 폴더는 기존 사용자 작업을 보존하므로 최신 게시본은 각 `-maintenance-20261020` worktree와 GitHub에서 확인합니다. 외부 파일이 없는 분석·실사이트/DB 연동 및 수료 증빙은 미확인 상태를 문서에 남겼습니다.
+
+## 전체 순서 완료 — 2026-10-21
+
+[팩트] 프로필 게시와 기존 공개 저장소 8개의 설명·Topics 적용을 완료했습니다. 고정 후보 6개는 구성안으로 기록했으며 실제 pins 변경은 하지 않았습니다. 학생용 Quant Demo는 `7f607f69224ffaf809dcfa5829e6a097d8cde6c3`를 main에 게시하고 원격과 일치함을 확인했습니다.
+
+한국어/영어 시작 안내, 코드 해설, 실습 6개와 해설, 강사용 수업안, 3D/2D·모바일 화면을 연결했습니다. Python 22개·JS 9개·브라우저 11개와 정답 코드 1개를 확인했습니다. 공개 텍스트·자체 공개 Git 이력 검사와 화면 수동 검토를 마쳤고 원본 20개 파일·Git 상태·HEAD도 보존했습니다. 공개 코드와 합성 입력만 사용했으며 비공개 운용 자료·장치·계정은 참고하거나 연결하지 않았습니다.
+
+[학생 시작 안내](https://github.com/Joon-Jeremy-Chun/quant-pi-trading-demo/blob/main/docs/START_HERE.ko.md) · [공개 범위](https://github.com/Joon-Jeremy-Chun/quant-pi-trading-demo/blob/main/docs/PUBLIC_BOUNDARY.md)

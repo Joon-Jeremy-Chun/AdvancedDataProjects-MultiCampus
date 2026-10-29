@@ -98,3 +98,15 @@ Genomics_Data_Analysis 순서의 문서 보완·검증·게시를 승인했다. 
 한국어/영어 시작 안내, 코드 해설, 실습 6개와 해설, 강사용 수업안, 3D/2D·모바일 화면을 연결했습니다. Python 22개·JS 9개·브라우저 11개와 정답 코드 1개를 확인했습니다. 공개 텍스트·자체 공개 Git 이력 검사와 화면 수동 검토를 마쳤고 원본 20개 파일·Git 상태·HEAD도 보존했습니다. 공개 코드와 합성 입력만 사용했으며 비공개 운용 자료·장치·계정은 참고하거나 연결하지 않았습니다.
 
 [학생 시작 안내](https://github.com/Joon-Jeremy-Chun/quant-pi-trading-demo/blob/main/docs/START_HERE.ko.md) · [공개 범위](https://github.com/Joon-Jeremy-Chun/quant-pi-trading-demo/blob/main/docs/PUBLIC_BOUNDARY.md)
+
+## 후속 세 단계 — 2026-10-29
+
+[팩트] 승인한 CI → 학생 안내 점검 → 대표 예제 새 환경 재현의 구현과 게시를 완료했습니다.
+
+| 작업 | 게시본 | 확인한 범위 |
+| --- | --- | --- |
+| 학생용 CI | `14ba4be` (main) | Linux/Windows × Python 3.10/3.13 및 Node, 5개 작업 성공 |
+| 학생 안내 기술 리허설 | 위 데모에 포함 | 새 ZIP·Git 없는 경로·서드파티 0개 venv, CLI/과제/문서/로컬 서버 확인; 실제 학생 평가는 미수행 |
+| Iris 참조 재현 | `a6e1c78` (master) | 원본 미변경·실제 커널·새 환경 두 개 예측 일치, 최종 게시본 CI Linux/Windows 모두 성공 |
+
+[팩트] 두 원본 폴더의 HEAD·Git 상태·총 33개 파일 해시를 보존했습니다. 새 모델 비교·튜닝 없이 기존 예제의 설치/실행을 확인한 운영 기록입니다. 비공개 운용 소스·전략·Pi·계정에는 접근하지 않았습니다. [인계와 실제 실행 링크](../docs/handoffs/HANDOFF_2026-10-29_ci_student_reproduction.md)를 참조합니다.

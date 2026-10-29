@@ -74,3 +74,11 @@ Published profile, eight public descriptions/Topics and the synthetic student la
 The six-pin layout is a documented plan; actual profile pins were not changed.
 Read the [current handoff](../docs/handoffs/HANDOFF_2026-10-21_profile_and_student_lab.md).
 No private operational repository, device or account was accessed for this work.
+
+## CI and selected reproduction — 2026-10-29
+
+Published classroom CI/package-free ZIP rehearsal and unchanged-source Iris notebook
+reproduction. The selected reference ran in two clean local environments and hosted
+Linux/Windows jobs. See the [current handoff](../docs/handoffs/HANDOFF_2026-10-29_ci_student_reproduction.md)
+for commit/run evidence, operational-record classification and preserved originals.
+Actual student feedback and full external-data archive execution remain unverified.
